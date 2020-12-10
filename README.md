@@ -12,4 +12,4 @@ Therefore I created a pretty basic macOS app that was compiled using the "Intel 
 
 ## How to use
 
-Either export the app from the Xcode project, or download the version attached in releases.
+Either export the app from the Xcode project, or download the version attached in releases.  Once you double click on it and you don't have Rosetta 2 installed, it should prompt you.  Once the app loads you will just see a label that says "Taco" that can immediately be closed and deleted.
